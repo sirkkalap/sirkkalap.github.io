@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Videoitani</title>
+    <link>http://sirkkalap.github.io/Petri/Petri/Videoitani/Videoitani.html</link>
+    <description>Välillä, kun inspiraatio iskee teen lyhyitä videoita. Tässä niille blogi.</description>
+    <generator>iWeb 3.0.4</generator>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Välillä, kun inspiraatio iskee teen lyhyitä videoita. Tässä niille blogi.</itunes:subtitle>
+    <itunes:summary>Välillä, kun inspiraatio iskee teen lyhyitä videoita. Tässä niille blogi.</itunes:summary>
+    <language>fi</language>
+    <item>
+      <title>Vihreä mies tuiskussa</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Videoitani/Merkinnat/2009/11/22_Vihrea_mies_tuiskussa.html</link>
+      <guid isPermaLink="false">ea442859-d68a-4f3f-b898-fd839187b41c</guid>
+      <pubDate>Sun, 22 Nov 2009 23:21:45 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Media/Vihrea%CC%88%20mies%20tuiskussa-medium.m4v&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Videoitani/Media/Vihrea%20mies%20tuiskussa-medium_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:339px; height:191px;&quot;/&gt;&lt;/a&gt;Nadja antoi minulle lahjaksi tämän videon päähenkilön. Ihastuin heti hänen hämmästyneeseen ilmeeseensä ja nauhoitin tämän lyhyen pätkän.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Media/Vihrea%CC%88%20mies%20tuiskussa-medium.m4v" length="17964832" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:28</itunes:duration>
+      <itunes:subtitle>Nadja antoi minulle lahjaksi tämän videon päähenkilön. Ihastuin heti hänen hämmästyneeseen ilmeeseensä ja nauhoitin tämän lyhyen pätkän.</itunes:subtitle>
+      <itunes:summary>Nadja antoi minulle lahjaksi tämän videon päähenkilön. Ihastuin heti hänen hämmästyneeseen ilmeeseensä ja nauhoitin tämän lyhyen pätkän.</itunes:summary>
+    </item>
+  </channel>
+</rss>

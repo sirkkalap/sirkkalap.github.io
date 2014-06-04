@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Lentosimulaattori</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Pilvia_Tampereen_taivaalla,_FSX-lentosimulaattorissa_files/shapeimage_1.png" left="0px" top="0px" width="676px" height="221px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Lentosimulaattori on yksi niist&#xE4; peleist&#xE4;, jonka &#xE4;&#xE4;reen palaan aina uudelleen ja uudelleen. Ensimm&#xE4;inen simulaattorini oli Mikrobitti lehdest&#xE4; Commodore 64 koneelle itse k&#xE4;sin listauksesta kirjoittamani. Kirjoitin sen kaksi tai kolme kertaa, koska koneessa ei ollut mit&#xE4;&#xE4;n massamuistia ja kirjoitusvirheet kaatoivat softan pari kertaa.&#xD;&#xD;Seuraava merkitt&#xE4;v&#xE4; simulaattori oli Flight Simulator (versio 1), joka julkaistiin Commodore 64:lle. Tuo varsin nostalginen paketti on yh&#xE4; jossain arkistossa, kunpa sen l&#xF6;yt&#xE4;isin jostain. Ohjekirja on koluttu moneen kertaan ja sen kanssa opettelin NDB ja VOR navigoinnin salat.&#xD;&#xD;Nyt Microsoft Flight Simulator X on se ohjelma, jonka vuoksi minulla viel&#xE4; on Windows asennettuna miss&#xE4;&#xE4;n. Lentelen yleens&#xE4; Tampereen ymp&#xE4;rist&#xF6;ss&#xE4;, vaikka siihen ei mit&#xE4;&#xE4;n erityist&#xE4; syyt&#xE4; ole. Ehk&#xE4; kuitenkin syyksi kelpaa se, ett&#xE4; on mukava tunnelmoida ulkona ropisevan sateen sattuessa samassa s&#xE4;&#xE4;ss&#xE4; simulaattorissakin.&#xD;&#xD;Kuvan nappasin iPhonella panoramana. Heh, joskus tarvitaan panoraama ihan vain monitorin kuvan kaappaamiseksi. Ruutuja on vierekk&#xE4;in kaksi ja yhteens&#xE4; resoluutio on 3360 x 1050. Ruutu piirtyy noin 20 - 50 kertaa sekunnissa, mutta ei ole toivoakaan asettaa grafiikkoja t&#xE4;ysille. Eli yll&#xE4;oleva kuva esitt&#xE4;&#xE4; semmoista keskinkertaista grafiikan tasoa.&#xD;&#xD;Kuvassa keskiy&#xF6;n aurinko nousee ja alla oleva pilvimatto saa valon ja varjon l&#xE4;ikki&#xE4; aaltojensa ylle. En odottanut pilvien milloinkaan n&#xE4;ytt&#xE4;v&#xE4;n n&#xE4;in onnistuneilta simulaattorissa. Viel&#xE4; kun tuota Windowsia ei tarvitsisi siet&#xE4;&#xE4;... mutta 3360 x 1050 ei vaan onnistu miss&#xE4;&#xE4;n muualla, kuin Windows XP:ss&#xE4;. Ei muuten Vistassa eik&#xE4; Windows seiskassakaan.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Pilvi&#xE4; Tampereen taivaalla, FSX-lentosimulaattorissa</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;28.6.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Petrin Mac juttuja</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Leopard_asennus_iBook_G4_koneeseen_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Ennen Italian matkaa totesin, ett&#xE4; on varmaankin parasta asentaa vanhaan kunnon iBook G4 koneeseen k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4; uudelleen. L&#xE4;hinn&#xE4; siksi, koska koneeseen oli vuosien aikana kertynyt kohtuullisen paljon luottamuksellista tietoa ja kannettavan katoaminen matkalla olisi aiheuttanut ep&#xE4;mukavan olon :).&#xD;&#xD;Asennus luonnollisesti kesti melko kauan. V&#xE4;hint&#xE4;&#xE4;n tunnin aluksi. T&#xE4;m&#xE4;n j&#xE4;lkeen levytilaa oli kulunut noin 11 gigaa ja Leopard oli asennettu. Seuraavaksi asensin lis&#xE4;osista suomenkielisi&#xE4; k&#xE4;&#xE4;nn&#xF6;ksi&#xE4; ja muita pikkuosia. Nyt tilaa oli kulunut 12 GB. Seuraavana olivat 10.5.5 p&#xE4;ivitys sek&#xE4; Xcode ja Dashcode kehitysty&#xF6;kalut -&gt; 15 GB. Lopuksi asensin iWorks paketin, jonka j&#xE4;lkeen levytilaa oli mennyt yhteens&#xE4; 16 gigatavua. &#xD;&#xD;Ilmeisi&#xE4; v&#xE4;ltt&#xE4;m&#xE4;tt&#xF6;myyksi&#xE4;, jotka pit&#xE4;&#xE4; asentaa pikimmiten ovat viel&#xE4; iScroll2, Little Snitch, Menu Calendar, Saft, Netbeans, OmniGraffle pro, TeXShop, Graphing Calculator, Menu Meters, Aquamatics Emacs, ja Vim.&#xD;&#xD;Lis&#xE4;ksi oman bin ja .ssh kansion ne osat, jotka kuuluvat G4:lle pit&#xE4;&#xE4; kopioida.&#xD;&#xD;T&#xE4;m&#xE4; t&#xE4;st&#xE4; asennuksest t&#xE4;lt&#xE4; kertaa t&#xE4;&#xE4;lt&#xE4;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Leopard asennus iBook G4 koneeseen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;6.9.2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

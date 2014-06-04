@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Petrin elokuvakirjasto</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Elokuvakirjasto_Delicious_Library_2_n_avulla_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>DVD hyllyss&#xE4; alkaa olla sen verran ahdasta, ett&#xE4; on aika laittaa elokuvat kirjastoon. Olin aiemmin joskus kirjannut elokuvani Delicious Library nimisell&#xE4; ohjelmalla. K&#xE4;vin katsomassa tekij&#xE4;n sivuja ja huomasin uuden version tarjoavan my&#xF6;s mahdollisuuden julkaista kirjaston webiss&#xE4;. Hyv&#xE4; homma. Elokuvakirjasto on nyt siis osa t&#xE4;t&#xE4; sivustoa. Viel&#xE4;, kun saan hankittua web-kameran, niin sitten koko kirjasto saadaan listattua...</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Elokuvakirjasto Delicious Library 2:n avulla</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;10.2.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Kirjoittelen tähän muistiin Apple Macintosh aiheisia juttuja</title>
+    <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Mina_%26_Mac.html</link>
+    <description>Tämän on tarkoitus toimia muistikirjana minulle ja muille, jotka käyttävät Apple laitteita. Olen kehno blogaaja, koskapa uusia artikkeleita julkaisen hyvin harvoin.</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Mina_%26_Mac_files/Kuva%202.jpg</url>
+      <title>Kirjoittelen tähän muistiin Apple Macintosh aiheisia juttuja</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Mina_%26_Mac.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Tämän on tarkoitus toimia muistikirjana minulle ja muille, jotka käyttävät Apple laitteita. Olen kehno blogaaja, koskapa uusia artikkeleita julkaisen hyvin harvoin.</itunes:subtitle>
+    <itunes:summary>Tämän on tarkoitus toimia muistikirjana minulle ja muille, jotka käyttävät Apple laitteita. Olen kehno blogaaja, koskapa uusia artikkeleita julkaisen hyvin harvoin.</itunes:summary>
+    <itunes:image href="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Mina_%26_Mac_files/Kuva%202.jpg"/>
+    <language>fi</language>
+    <item>
+      <title>Kotiverkko 2013-07-25</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/7/25_Kotiverkko_2013-07-25.html</link>
+      <guid isPermaLink="false">158f7390-698a-41c1-9c7d-5ec3d74fd813</guid>
+      <pubDate>Thu, 25 Jul 2013 19:39:00 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/7/25_Kotiverkko_2013-07-25_files/Kotiverkko_1.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object018.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:135px;&quot;/&gt;&lt;/a&gt;Kävin jälleen läpi kotiverkon ja päivittelin hieman kuvaa. Tässä nykytilanne muutamaa pikkujuttua lukuunottamatta.&lt;br/&gt;&lt;br/&gt;Suurin muutos on se, että verkkoon tuli HP Procurve 1810-8G reititin alakerran ja yläkerran verkkojen välille. Se korvasi aimman Jensen-merkkisen hubin, joka ajoittain kaatuili ja tukki liikenteen. Tuo HP on enemmän kuin riittävä tämänhetkisiin tarpeisiin. No eipähän ainakaan jumittele ja toisaalta saan gigaisen verkon melkein koko taloon nyt. Alakerrassa vielä pitäisi laittaa yksi gigainen reititin nykyisen AEBS:n tilalle, niin sitten verkko olisi aika ok. Harmillisesti tuo AEBS on vain 100M interfaceilla, joten video yms. hommat hieman tökkivät välillä.&lt;br/&gt;&lt;br/&gt;Kuvasta puuttuu vielä ZyXEL NAS, jonka tökkäsin yläkertaan varmuuskopioiden kohdelevyksi. Revontulella oleileva Crashplan ajelee sinne varmuuskopioita monestakin suunnasta.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/7/25_Kotiverkko_2013-07-25_files/Kotiverkko_1.png" length="100317" type="image/png"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Apple lopetti mobile me:n 2012-06-30</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/6/8_Apple_lopetti_mobile_me_n_2012-06-30.html</link>
+      <guid isPermaLink="false">b4680b6b-27bc-489b-a687-c4b5830ae318</guid>
+      <pubDate>Sat, 8 Jun 2013 11:11:05 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/6/8_Apple_lopetti_mobile_me_n_2012-06-30_files/2013-06-08%2011.23.54.jpg&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object019.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:135px;&quot;/&gt;&lt;/a&gt;Apple &lt;a href=&quot;http://en.wikipedia.org/wiki/MobileMe#Discontinuation&quot;&gt;lopetti&lt;/a&gt; palvelun, jossa minulla oli mm. tämä sivusto. Kaikenlaiset Apple-vimpainten väliset synkronoinnit korvasi &lt;a href=&quot;https://www.icloud.com/&quot;&gt;iCloud&lt;/a&gt;. Palveluna MobileMe oli alkuaikoinaan haparoiva, mutta vakautui lopulta. Tämä henkilökohtainen sivusto jäi MobileMe muutoksen jalkoihin ja vasta nyt saan sen jälleen näkyviin.&lt;br/&gt;&lt;br/&gt;Kiitokset siitä, että sivusto jälleen näkyy kuuluvat veljelleni Timolle, joka näppäränä IT-velhona huomasi, että dy.fi tarjoaa kätevää dynaamista nimipalvelua. Lisäksi hän rekisteröi kota.dy.fi:n ja yhdessä konffasimme kota-palvelimen (vanha 2007 Mac Mini) tarjoilemaan verkkopalveluita Lion Serverin avulla.&lt;br/&gt;&lt;br/&gt;Sattui vielä niin mukavasti, että kota-palvelimella oli tallessa vanha iLife’09 asennuksessa asennettu iWeb, joten pääsin avaamaan tämän sivuston masterit ja tekemään julkaisun uuteen kohteeseen.&lt;br/&gt;&lt;br/&gt;Seuraavaksi päivitän iki-palvelussa olevan oman kotisivuni osoittamaan tänne ja hämmästelen miten Internet on tullut toimeen ilman tätä timanttia. :)</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/6/8_Apple_lopetti_mobile_me_n_2012-06-30_files/2013-06-08%2011.23.54.jpg" length="243165" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Apple langattoman näppäimiston päivitys</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2010/1/26_Apple_langattoman_nappaimiston_paivitys.html</link>
+      <guid isPermaLink="false">d300dfd8-de8b-4864-b3c2-c78bcd5cf285</guid>
+      <pubDate>Tue, 26 Jan 2010 23:54:20 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Media/Apple%20Wireless%20Keyboard%20pa%CC%88ivitys-medium.m4v&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/Apple%20Wireless%20Keyboard%20paivitys-medium_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:339px; height:191px;&quot;/&gt;&lt;/a&gt;Päivityksen alusta puuttuu kohta, jossa päivitys ladataan ja se kysyy tunnuksen tietoja asennusta varten. Muuten asennus sujui ihan ok.&lt;br/&gt;&lt;br/&gt;Harmi vaan, että vieläkin näppäimet välillä toistuvat.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Media/Apple%20Wireless%20Keyboard%20pa%CC%88ivitys-medium.m4v" length="15202898" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:14</itunes:duration>
+      <itunes:subtitle>Päivityksen alusta puuttuu kohta, jossa päivitys ladataan ja se kysyy tunnuksen tietoja asennusta varten. Muuten asennus sujui ihan ok.&#13;&#13;Harmi vaan, että vieläkin näppäimet välillä toistuvat.</itunes:subtitle>
+      <itunes:summary>Päivityksen alusta puuttuu kohta, jossa päivitys ladataan ja se kysyy tunnuksen tietoja asennusta varten. Muuten asennus sujui ihan ok.&#13;&#13;Harmi vaan, että vieläkin näppäimet välillä toistuvat.</itunes:summary>
+    </item>
+    <item>
+      <title>Java-päivitys, Finder ja reset-ruutu</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/12/4_Java-paivitys,_Finder_ja_reset-ruutu.html</link>
+      <guid isPermaLink="false">fc367fb1-c964-4c8d-bbc0-08a38b3b2e9b</guid>
+      <pubDate>Fri, 4 Dec 2009 23:15:26 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/12/4_Java-paivitys,_Finder_ja_reset-ruutu_files/Nayttokuva%202009-12-04%20kohteessa%2023.09.53.jpg&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object020.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:256px; height:141px;&quot;/&gt;&lt;/a&gt;Päivitin Java-päivityksen Snow Leopardiin ja sain nähdä pari outoa ruutua. Ensin Finderissä ei ollut valikoita ja seuraavaksi konetta sammuttaessani tuli näytölle reset-ruutu. Höh.&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/12/4_Java-paivitys,_Finder_ja_reset-ruutu_files/Nayttokuva%202009-12-04%20kohteessa%2023.09.53.jpg" length="62515" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Saunavisio boksin päivitys Elisa Viihteeksi </title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/11/22_Saunavisio_boksin_paivitys_Elisa_Viihteeksi.html</link>
+      <guid isPermaLink="false">994f9462-bdb8-4087-9905-4444f70c699e</guid>
+      <pubDate>Sun, 22 Nov 2009 10:56:30 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Media/Saunaboxi%20pa%CC%88ivitys%20Elisa%20viihteeksi-medium.m4v&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/Saunaboxi%20paivitys%20Elisa%20viihteeksi-medium_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:339px; height:191px;&quot;/&gt;&lt;/a&gt;Saunalahti vaihtoi Kotitotaali liittymäni Elisa Viihde liittymäksi. Tämä tapahtui loppukesästä, määräaikaisen sopimuskauden puolivälin paikkeilla. Minulle tuli siitä ilmoitus postissa.&lt;br/&gt;&lt;br/&gt;Nyt laitoin Saunavisio boksin kiinni verkkoon ja ajoin sille päivitykset. Muutamaa resoluution asettamiseen liittyvää bugia lukuun ottamatta kaikki toimii normaalisti. &lt;br/&gt;&lt;br/&gt;Videolla päivitys (pikakelauksena) ja muutama toimimaton resoluutio. Harmi sinänsä, ettei yksikään HDMI progressive tila toiminut minun boksissani.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Media/Saunaboxi%20pa%CC%88ivitys%20Elisa%20viihteeksi-medium.m4v" length="21737652" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:46</itunes:duration>
+      <itunes:subtitle>Saunalahti vaihtoi Kotitotaali liittymäni Elisa Viihde liittymäksi. Tämä tapahtui loppukesästä, määräaikaisen sopimuskauden puolivälin paikkeilla. Minulle tuli siitä ilmoitus postissa.&#13;&#13;N</itunes:subtitle>
+      <itunes:summary>Saunalahti vaihtoi Kotitotaali liittymäni Elisa Viihde liittymäksi. Tämä tapahtui loppukesästä, määräaikaisen sopimuskauden puolivälin paikkeilla. Minulle tuli siitä ilmoitus postissa.&#13;&#13;Nyt laitoin Saunavisio boksin kiinni verkkoon ja ajoin sille päivitykset. Muutamaa resoluution asettamiseen liittyvää bugia lukuun ottamatta kaikki toimii normaalisti. &#13;&#13;Videolla päivitys (pikakelauksena) ja muutama toimimaton resoluutio. Harmi sinänsä, ettei yksikään HDMI progressive tila toiminut minun boksissani.</itunes:summary>
+    </item>
+    <item>
+      <title>Kotiverkon päivitys</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/11/22_Kotiverkon_paivitys.html</link>
+      <guid isPermaLink="false">6cc3459d-fd7d-466d-bde0-29cf71ccf705</guid>
+      <pubDate>Sun, 22 Nov 2009 10:28:47 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/11/22_Kotiverkon_paivitys_files/Kotiverkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object021.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:210px;&quot;/&gt;&lt;/a&gt;Kotiverkossa siirtyi Revontuli ulkoverkkoon. Tämä on helpompaa kaikille sen käyttäjille, kun revontuli pysyy paremmin linjoilla ja on netissä omalla IP:llä. Kota siirtyi nopeampaan verkkoon, kun kytkin sen HP:n reitittimen 1Gbit töpseliin. Laavu lähti vanhemmilleni ja sen korvaa nyt MacBook Pro Kelo.&lt;br/&gt;&lt;br/&gt;Korjasin myös kuvaan livahtaneen virheen, Lakka (AEBS) on luonnollisesti kotiverkon ja Internetin välissä NAT:ina. </description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/11/22_Kotiverkon_paivitys_files/Kotiverkko.png" length="119953" type="image/png"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Pilviä Tampereen taivaalla, FSX-lentosimulaattorissa</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/28_Pilvia_Tampereen_taivaalla,_FSX-lentosimulaattorissa.html</link>
+      <guid isPermaLink="false">2f14c7db-dc29-4ea0-8ba5-d6875d90961e</guid>
+      <pubDate>Sun, 28 Jun 2009 22:29:29 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/28_Pilvia_Tampereen_taivaalla,_FSX-lentosimulaattorissa_files/IMG_0619.jpg&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object022.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:264px; height:86px;&quot;/&gt;&lt;/a&gt;Lentosimulaattori on yksi niistä peleistä, jonka ääreen palaan aina uudelleen ja uudelleen. Ensimmäinen simulaattorini oli Mikrobitti lehdestä Commodore 64 koneelle itse käsin listauksesta kirjoittamani. Kirjoitin sen kaksi tai kolme kertaa, koska koneessa ei ollut mitään massamuistia ja kirjoitusvirheet kaatoivat softan pari kertaa.&lt;br/&gt;&lt;br/&gt;Seuraava merkittävä simulaattori oli Flight Simulator (versio 1), joka julkaistiin Commodore 64:lle. Tuo varsin nostalginen paketti on yhä jossain arkistossa, kunpa sen löytäisin jostain. Ohjekirja on koluttu moneen kertaan ja sen kanssa opettelin NDB ja VOR navigoinnin salat.&lt;br/&gt;&lt;br/&gt;Nyt Microsoft Flight Simulator X on se ohjelma, jonka vuoksi minulla vielä on Windows asennettuna missään. Lentelen yleensä Tampereen ympäristössä, vaikka siihen ei mitään erityistä syytä ole. Ehkä kuitenkin syyksi kelpaa se, että on mukava tunnelmoida ulkona ropisevan sateen sattuessa samassa säässä simulaattorissakin.&lt;br/&gt;&lt;br/&gt;Kuvan nappasin iPhonella panoramana. Heh, joskus tarvitaan panoraama ihan vain monitorin kuvan kaappaamiseksi. Ruutuja on vierekkäin kaksi ja yhteensä resoluutio on 3360 x 1050. Ruutu piirtyy noin 20 - 50 kertaa sekunnissa, mutta ei ole toivoakaan asettaa grafiikkoja täysille. Eli ylläoleva kuva esittää semmoista keskinkertaista grafiikan tasoa.&lt;br/&gt;&lt;br/&gt;Kuvassa keskiyön aurinko nousee ja alla oleva pilvimatto saa valon ja varjon läikkiä aaltojensa ylle. En odottanut pilvien milloinkaan näyttävän näin onnistuneilta simulaattorissa. Vielä kun tuota Windowsia ei tarvitsisi sietää... mutta 3360 x 1050 ei vaan onnistu missään muualla, kuin Windows XP:ssä. Ei muuten Vistassa eikä Windows seiskassakaan.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/28_Pilvia_Tampereen_taivaalla,_FSX-lentosimulaattorissa_files/IMG_0619.jpg" length="40138" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>HP Procurve 1400-8G</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/24_HP_Procurve_1400-8G.html</link>
+      <guid isPermaLink="false">23a583c1-223d-4aa4-a597-6337c0835a5a</guid>
+      <pubDate>Wed, 24 Jun 2009 22:40:29 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/24_HP_Procurve_1400-8G_files/Verkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object023_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:161px;&quot;/&gt;&lt;/a&gt;Kaksi D-Linkin kytkintä kestivät kumpainenkin alle vuorokauden. Ne pimenivät lopullisesti ja palautin ne Verkkokauppaan. En ottanut kolmatta samanlaista vaan maksoin kiltisti noin 30 € erotuksen HP Procurve 1400-8G reitittimeen.&lt;br/&gt;&lt;br/&gt;Paketti oli ruskeaa pahvia ja päälle oli printattu Procurve. Sisältä löytyi metallirunkoinen 8 porttinen kytkin, jossa oli tuuletusaukot sivuilla. Kytkimen virtaliitin on sijoitettu laitteen takapaneeliin ja etupaneelissa on kahdeksan RJ-45 liitäntää sekä ledit kertomassa porttien tilasta ja nopeudesta. Selkeää, siistiä ja käytettävää.&lt;br/&gt;&lt;br/&gt;Niputin kytkimen kiinni ATK-pöytäni selässä olevaan kylppäritelineeseen, jossa kaikki muuntajat ja muu sellainen krääsä pysyvät näppärästi omissa lokeroissaan. Virrat kiinni ja kytkin heräsi henkiin. Eetteri-piuhat paikalleen ja kotiverkko pelitti taas. Nyt tukevammalla 12V 0.8-1A virransyötöllä. :)</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/24_HP_Procurve_1400-8G_files/Verkko.png" length="47118" type="image/png"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Kotiverkko taas</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/23_Kotiverkko_taas.html</link>
+      <guid isPermaLink="false">4a5731b2-44f1-4345-b169-a7385ad26ab8</guid>
+      <pubDate>Tue, 23 Jun 2009 22:54:45 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/23_Kotiverkko_taas_files/Verkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object024_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:173px;&quot;/&gt;&lt;/a&gt;Toisena päivänä D-Link DGS-1008D sanoi sähkösopimuksensa irti. Bitti ei viuhunut, eivätkä valot tuikkineet. Oli aika käydä Verkkokaupan palautustiskillä. Lyhyen testin jälkeen tulostettiin hyvityslappu ja kävin arpomassa hyllystä uuden samanlaisen.&lt;br/&gt;&lt;br/&gt;Nyt taas pelittää, mutta miten kauan…&lt;br/&gt;&lt;br/&gt;Edit: Ihan kuin blogaaminen vaikuttaisi laitteiden kestoon. Tänään aamulla hajosi sitten toinen D-Link DGS-1008D. Palautin Verkkokauppaan ja otin tilalle HP Procurve 1400-8G:n. Se siitä.</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/23_Kotiverkko_taas_files/Verkko.png" length="46175" type="image/png"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Kotiverkko</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko.html</link>
+      <guid isPermaLink="false">c8613bf6-9e50-48d8-9a2f-1d22ec544b09</guid>
+      <pubDate>Mon, 22 Jun 2009 00:32:42 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko_files/Verkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object025_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:175px;&quot;/&gt;&lt;/a&gt;Verkkoon tuli uusi D-Linkin kytkin. Vähitellen voin alkaa nostaa verkkoa gigabit luokkaan. Kovin moni laite ei tosin sitä tue, eivätkä koneiden kovalevyt ole mitenkään erityisen nopeita. &lt;br/&gt;&lt;br/&gt;Kota on Mac Mini kone, jolla työskentelen eniten. Kotalla on kuluvan vuoden valokuvat paikallisella levyllä ja siitä otetaan Time machine varmuuskopiot ulkoiselle kovalevylle jatkuvasti.&lt;br/&gt;&lt;br/&gt;Laavussa on kiinni 4 ulkoista USB kovalevyä, joiden siirtonopeudet ovat noin 5 Mb / s. Laavu hoitaa levypalvelimen virkaa, mihin se hyvin soveltuukin. Hiljainen kone ja sammuttelee levyt hyrräämästä nopeasti.&lt;br/&gt;&lt;br/&gt;Tiipii on pelikone, jossa ajelen Wow:a ja FSX:aa.&lt;br/&gt;&lt;br/&gt;Myy on Nadjan kone, jossa pyörii Ubuntu. </description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko_files/Verkko.png" length="45918" type="image/png"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+  </channel>
+</rss>

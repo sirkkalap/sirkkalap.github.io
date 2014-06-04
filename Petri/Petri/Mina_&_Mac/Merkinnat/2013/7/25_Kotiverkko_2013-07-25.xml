@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:59 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kotiverkko 2013-07-25</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Kotiverkko_2013-07-25_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>K&#xE4;vin j&#xE4;lleen l&#xE4;pi kotiverkon ja p&#xE4;ivittelin hieman kuvaa. T&#xE4;ss&#xE4; nykytilanne muutamaa pikkujuttua lukuunottamatta.&#xD;&#xD;Suurin muutos on se, ett&#xE4; verkkoon tuli HP Procurve 1810-8G reititin alakerran ja yl&#xE4;kerran verkkojen v&#xE4;lille. Se korvasi aimman Jensen-merkkisen hubin, joka ajoittain kaatuili ja tukki liikenteen. Tuo HP on enemm&#xE4;n kuin riitt&#xE4;v&#xE4; t&#xE4;m&#xE4;nhetkisiin tarpeisiin. No eip&#xE4;h&#xE4;n ainakaan jumittele ja toisaalta saan gigaisen verkon melkein koko taloon nyt. Alakerrassa viel&#xE4; pit&#xE4;isi laittaa yksi gigainen reititin nykyisen AEBS:n tilalle, niin sitten verkko olisi aika ok. Harmillisesti tuo AEBS on vain 100M interfaceilla, joten video yms. hommat hieman t&#xF6;kkiv&#xE4;t v&#xE4;lill&#xE4;.&#xD;&#xD;Kuvasta puuttuu viel&#xE4; ZyXEL NAS, jonka t&#xF6;kk&#xE4;sin yl&#xE4;kertaan varmuuskopioiden kohdelevyksi. Revontulella oleileva Crashplan ajelee sinne varmuuskopioita monestakin suunnasta.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kotiverkko 2013-07-25</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;25.7.2013&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Saunavisio boksin p&#xE4;ivitys</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Saunalahti vaihtoi Kotitotaali liittym&#xE4;ni Elisa Viihde liittym&#xE4;ksi. T&#xE4;m&#xE4; tapahtui loppukes&#xE4;st&#xE4;, m&#xE4;&#xE4;r&#xE4;aikaisen sopimuskauden puoliv&#xE4;lin paikkeilla. Minulle tuli siit&#xE4; ilmoitus postissa.&#xD;&#xD;Nyt laitoin Saunavisio boksin kiinni verkkoon ja ajoin sille p&#xE4;ivitykset. Muutamaa resoluution asettamiseen liittyv&#xE4;&#xE4; bugia lukuun ottamatta kaikki toimii normaalisti. &#xD;&#xD;Videolla p&#xE4;ivitys (pikakelauksena) ja muutama toimimaton resoluutio. Harmi sin&#xE4;ns&#xE4;, ettei yksik&#xE4;&#xE4;n HDMI progressive tila toiminut minun boksissani.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Saunavisio boksin p&#xE4;ivitys Elisa Viihteeksi </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;22.11.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

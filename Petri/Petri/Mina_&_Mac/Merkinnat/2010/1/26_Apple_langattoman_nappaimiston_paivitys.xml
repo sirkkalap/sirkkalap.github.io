@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Apple langattoman n&#xE4;pp&#xE4;imist&#xF6;n p&#xE4;ivitys</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE4;ivityksen alusta puuttuu kohta, jossa p&#xE4;ivitys ladataan ja se kysyy tunnuksen tietoja asennusta varten. Muuten asennus sujui ihan ok.&#xD;&#xD;Harmi vaan, ett&#xE4; viel&#xE4;kin n&#xE4;pp&#xE4;imet v&#xE4;lill&#xE4; toistuvat.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Apple langattoman n&#xE4;pp&#xE4;imiston p&#xE4;ivitys</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;26.1.2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Uusi kytkin taas</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_HP_Procurve_1400-8G_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="251px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kaksi D-Linkin kytkint&#xE4; kestiv&#xE4;t kumpainenkin alle vuorokauden. Ne pimeniv&#xE4;t lopullisesti ja palautin ne Verkkokauppaan. En ottanut kolmatta samanlaista vaan maksoin kiltisti noin 30 &#x20AC; erotuksen HP Procurve 1400-8G reitittimeen.&#xD;&#xD;Paketti oli ruskeaa pahvia ja p&#xE4;&#xE4;lle oli printattu Procurve. Sis&#xE4;lt&#xE4; l&#xF6;ytyi metallirunkoinen 8 porttinen kytkin, jossa oli tuuletusaukot sivuilla. Kytkimen virtaliitin on sijoitettu laitteen takapaneeliin ja etupaneelissa on kahdeksan RJ-45 liit&#xE4;nt&#xE4;&#xE4; sek&#xE4; ledit kertomassa porttien tilasta ja nopeudesta. Selke&#xE4;&#xE4;, siisti&#xE4; ja k&#xE4;ytett&#xE4;v&#xE4;&#xE4;.&#xD;&#xD;Niputin kytkimen kiinni ATK-p&#xF6;yt&#xE4;ni sel&#xE4;ss&#xE4; olevaan kylpp&#xE4;ritelineeseen, jossa kaikki muuntajat ja muu sellainen kr&#xE4;&#xE4;s&#xE4; pysyv&#xE4;t n&#xE4;pp&#xE4;r&#xE4;sti omissa lokeroissaan. Virrat kiinni ja kytkin her&#xE4;si henkiin. Eetteri-piuhat paikalleen ja kotiverkko pelitti taas. Nyt tukevammalla 12V 0.8-1A virransy&#xF6;t&#xF6;ll&#xE4;. :)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>HP Procurve 1400-8G</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;24.6.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

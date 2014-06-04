@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kotiverkon p&#xE4;ivitys</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Kotiverkon_paivitys_files/shapeimage_1.png" left="0px" top="0px" width="448px" height="370px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kotiverkossa siirtyi Revontuli ulkoverkkoon. T&#xE4;m&#xE4; on helpompaa kaikille sen k&#xE4;ytt&#xE4;jille, kun revontuli pysyy paremmin linjoilla ja on netiss&#xE4; omalla IP:ll&#xE4;. Kota siirtyi nopeampaan verkkoon, kun kytkin sen HP:n reitittimen 1Gbit t&#xF6;pseliin. Laavu l&#xE4;hti vanhemmilleni ja sen korvaa nyt MacBook Pro Kelo.&#xD;&#xD;Korjasin my&#xF6;s kuvaan livahtaneen virheen, Lakka (AEBS) on luonnollisesti kotiverkon ja Internetin v&#xE4;liss&#xE4; NAT:ina. </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kotiverkon p&#xE4;ivitys</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;22.11.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

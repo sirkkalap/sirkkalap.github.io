@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-04 22:27:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Java-p&#xE4;ivitys ja Finder-sekoilu</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Java-paivitys,_Finder_ja_reset-ruutu_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="218px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE4;ivitin Java-p&#xE4;ivityksen Snow Leopardiin ja sain n&#xE4;hd&#xE4; pari outoa ruutua. Ensin Finderiss&#xE4; ei ollut valikoita ja seuraavaksi konetta sammuttaessani tuli n&#xE4;yt&#xF6;lle reset-ruutu. H&#xF6;h.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Java-p&#xE4;ivitys, Finder ja reset-ruutu</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;4.12.2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

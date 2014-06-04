@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Videoitani</title>
+    <link>http://sirkkalap.github.io/Petri/Petri/Videoitani</link>
+    <description>V&#xE4;lill&#xE4;, kun inspiraatio iskee teen lyhyit&#xE4; videoita. T&#xE4;ss&#xE4; niille blogi.</description>
+    <item>
+      <title>Vihre&#xE4; mies tuiskussa</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Videoitani/Merkinnat/2009/11/22_Vihrea_mies_tuiskussa.html</link>
+      <guid isPermaLink="false">ea442859-d68a-4f3f-b898-fd839187b41c</guid>
+      <pubDate>Sun, 22 Nov 2009 23:21:45 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://sirkkalap.github.io/Petri/Petri/Videoitani/Merkinnat/2009/11/22_Vihrea_mies_tuiskussa.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>d.M.yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://sirkkalap.github.io/Petri/Petri/Videoitani</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
