@@ -17,6 +17,15 @@
     <itunes:image href="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Mina_%26_Mac_files/Kuva%202.jpg"/>
     <language>fi</language>
     <item>
+      <title>Kotisivut github.io:ssa</title>
+      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2014/6/5_Kotisivut_github.io_ssa.html</link>
+      <guid isPermaLink="false">8f749a77-d6b0-4b7d-ba55-7d9b08c622bb</guid>
+      <pubDate>Thu, 5 Jun 2014 11:21:40 +0300</pubDate>
+      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2014/6/5_Kotisivut_github.io_ssa_files/Screenshot%202014-06-05%2011.23.32.jpg&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object033_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:395px; height:133px;&quot;/&gt;&lt;/a&gt;Minulla on muutamia open source projekteja GitHubissa ja huomasin, että github.io on tarkoitettu kehittäjän omien sivujen palvelemiseen. Riitti, kun tein projektin, jonka nimi oli sirkkalap.github.io ja commitoin sinne tiedostoja. GitHub.io pitää sivut committien tasalla eikä minun tarvitse miettiä palvelimen ylläpitämistä ja verkkoyhteyksien toimintaa.&lt;br/&gt;&lt;br/&gt;Niinpä siis nämäkin vanhat sivut on nyt julkaistu uudelleen github.io:n alla. Kotisivujen ohjaus toimii tietenkin yhä iki.fi:n kautta. Osoite minulle on&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://www.iki.fi/petri.sirkkala/&quot;&gt;http://www.iki.fi/petri.sirkkala&lt;/a&gt;</description>
+      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2014/6/5_Kotisivut_github.io_ssa_files/Screenshot%202014-06-05%2011.23.32.jpg" length="13007" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
       <title>Kotiverkko 2013-07-25</title>
       <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2013/7/25_Kotiverkko_2013-07-25.html</link>
       <guid isPermaLink="false">158f7390-698a-41c1-9c7d-5ec3d74fd813</guid>
@@ -101,15 +110,6 @@
       <pubDate>Tue, 23 Jun 2009 22:54:45 +0300</pubDate>
       <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/23_Kotiverkko_taas_files/Verkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object024_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:173px;&quot;/&gt;&lt;/a&gt;Toisena päivänä D-Link DGS-1008D sanoi sähkösopimuksensa irti. Bitti ei viuhunut, eivätkä valot tuikkineet. Oli aika käydä Verkkokaupan palautustiskillä. Lyhyen testin jälkeen tulostettiin hyvityslappu ja kävin arpomassa hyllystä uuden samanlaisen.&lt;br/&gt;&lt;br/&gt;Nyt taas pelittää, mutta miten kauan…&lt;br/&gt;&lt;br/&gt;Edit: Ihan kuin blogaaminen vaikuttaisi laitteiden kestoon. Tänään aamulla hajosi sitten toinen D-Link DGS-1008D. Palautin Verkkokauppaan ja otin tilalle HP Procurve 1400-8G:n. Se siitä.</description>
       <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/23_Kotiverkko_taas_files/Verkko.png" length="46175" type="image/png"/>
-      <itunes:block>yes</itunes:block>
-    </item>
-    <item>
-      <title>Kotiverkko</title>
-      <link>http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko.html</link>
-      <guid isPermaLink="false">c8613bf6-9e50-48d8-9a2f-1d22ec544b09</guid>
-      <pubDate>Mon, 22 Jun 2009 00:32:42 +0300</pubDate>
-      <description>&lt;a href=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko_files/Verkko.png&quot;&gt;&lt;img src=&quot;http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Media/object025_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:175px;&quot;/&gt;&lt;/a&gt;Verkkoon tuli uusi D-Linkin kytkin. Vähitellen voin alkaa nostaa verkkoa gigabit luokkaan. Kovin moni laite ei tosin sitä tue, eivätkä koneiden kovalevyt ole mitenkään erityisen nopeita. &lt;br/&gt;&lt;br/&gt;Kota on Mac Mini kone, jolla työskentelen eniten. Kotalla on kuluvan vuoden valokuvat paikallisella levyllä ja siitä otetaan Time machine varmuuskopiot ulkoiselle kovalevylle jatkuvasti.&lt;br/&gt;&lt;br/&gt;Laavussa on kiinni 4 ulkoista USB kovalevyä, joiden siirtonopeudet ovat noin 5 Mb / s. Laavu hoitaa levypalvelimen virkaa, mihin se hyvin soveltuukin. Hiljainen kone ja sammuttelee levyt hyrräämästä nopeasti.&lt;br/&gt;&lt;br/&gt;Tiipii on pelikone, jossa ajelen Wow:a ja FSX:aa.&lt;br/&gt;&lt;br/&gt;Myy on Nadjan kone, jossa pyörii Ubuntu. </description>
-      <enclosure url="http://sirkkalap.github.io/Petri/Petri/Mina_%26_Mac/Merkinnat/2009/6/22_Kotiverkko_files/Verkko.png" length="45918" type="image/png"/>
       <itunes:block>yes</itunes:block>
     </item>
   </channel>
