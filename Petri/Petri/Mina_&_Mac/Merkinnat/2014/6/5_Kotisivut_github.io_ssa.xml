@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D3E1EA68-0641-4A98-940C-B2A4289313F9">
+  <lastEdited clientType="local-build-20140605" date="2014-06-05 08:38:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kotisivut github.io:ssa</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Kotisivut_github.io_ssa_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="133px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Minulla on muutamia open source projekteja GitHubissa ja huomasin, ett&#xE4; github.io on tarkoitettu kehitt&#xE4;j&#xE4;n omien sivujen palvelemiseen. Riitti, kun tein projektin, jonka nimi oli sirkkalap.github.io ja commitoin sinne tiedostoja. GitHub.io pit&#xE4;&#xE4; sivut committien tasalla eik&#xE4; minun tarvitse mietti&#xE4; palvelimen yll&#xE4;pit&#xE4;mist&#xE4; ja verkkoyhteyksien toimintaa.&#xD;&#xD;Niinp&#xE4; siis n&#xE4;m&#xE4;kin vanhat sivut on nyt julkaistu uudelleen github.io:n alla. Kotisivujen ohjaus toimii tietenkin yh&#xE4; iki.fi:n kautta. Osoite minulle on&#xD;&#xD;&lt;a href="http://www.iki.fi/petri.sirkkala/"&gt;http://www.iki.fi/petri.sirkkala&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kotisivut github.io:ssa</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;5.6.2014&lt;/b&gt;</richText>
+  </textBox>
+</content>
