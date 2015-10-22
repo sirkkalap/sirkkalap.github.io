@@ -1,0 +1,3 @@
+[submodule "owasp-top-10-2013"]
+	path = owasp-top-10-2013
+	url = https://github.com/sirkkalap/owasp-top-10-2013.git
