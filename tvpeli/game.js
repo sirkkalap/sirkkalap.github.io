@@ -269,7 +269,7 @@ function drawMessage() {
   } else if (scorePlayer2 >= maxScore) {
     ctx.fillText('Pelaaja 2 voitti!', canvas.width / 2, canvas.height / 2 - 20);
   } else {
-    ctx.fillText('Paina mitä tahansa näppäintä aloittaaksesi', canvas.width / 2, canvas.height / 2);
+    ctx.fillText('Pelaaja 1 - w / s napit. Pelaaja 2 - p / l.', canvas.width / 2, canvas.height / 2);
   }
 
   if (scorePlayer1 >= maxScore || scorePlayer2 >= maxScore) {
@@ -314,15 +314,15 @@ document.addEventListener('keydown', (e) => {
   // Ohjaa pelaajien liikettä
   if (e.key === 'w') player1Move = -1;
   if (e.key === 's') player1Move = 1;
-  if (e.key === 'ArrowUp') player2Move = -1;
-  if (e.key === 'ArrowDown') player2Move = 1;
+  if (e.key === 'p') player2Move = -1;
+  if (e.key === 'l') player2Move = 1;
 
   keysAreReleased = false; // Tallenna, että jokin näppäin on painettuna
 });
 
 document.addEventListener('keyup', (e) => {
   if (e.key === 'w' || e.key === 's') player1Move = 0;
-  if (e.key === 'ArrowUp' || e.key === 'ArrowDown') player2Move = 0;
+  if (e.key === 'p' || e.key === 'l') player2Move = 0;
 
   // Tarkista, ovatko kaikki näppäimet ylhäällä
   const isAnyKeyDown = Object.values(player1Move).includes(-1) || Object.values(player2Move).includes(1);
