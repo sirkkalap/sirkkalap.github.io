@@ -179,6 +179,13 @@ function moveBall() {
   // Kimpoilu ylä- ja alareunasta
   if (checkBoundary(ballY, ballSize, 10, canvas.height - 10)) {
     ballSpeedY *= -1;
+    // Tasataan y-nopeutta
+    if (ballSpeedY > 1 || ballSpeedY < -1) {
+      ballSpeedY *= 0.95
+    }
+    else {
+      ballSpeedY *= 1.05
+    }
     playBounceSound(); // Generoi kimpoamisääni
   }
 
@@ -198,7 +205,7 @@ function moveBall() {
     }
 
     ballSpeedX *= -1;
-    ballSpeedY += player1Move * 1.5; // Siirretään mailan nopeutta palloon (skaalattu)
+    ballSpeedY += player1Move * 1.25; // Siirretään mailan nopeutta palloon (skaalattu)
     lastTouch = 1;
     playerHitBall = true;
     playPaddleHitSound(1); // Pelaaja 1:n osumaääni
@@ -220,7 +227,7 @@ function moveBall() {
     }
 
     ballSpeedX *= -1;
-    ballSpeedY += player2Move * 1.5; // Siirretään mailan nopeutta palloon (skaalattu)
+    ballSpeedY += player2Move * 1.25; // Siirretään mailan nopeutta palloon (skaalattu)
     lastTouch = 2;
     playerHitBall = true;
     playPaddleHitSound(2); // Pelaaja 2:n osumaääni
