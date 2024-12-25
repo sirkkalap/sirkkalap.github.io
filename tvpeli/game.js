@@ -75,7 +75,7 @@ let lastTouch = null; // Seuraa, kumpi pelaaja koski viimeksi palloa
 let playerHitBall = false; // Estää uudelleentarkistukset mailaan osumisen jälkeen
 
 // Pelaajien värit
-const player1Color = 'yellow';
+const player1Color = '#006500';
 const player2Color = 'magenta';
 
 // Lataa numerokuviot
